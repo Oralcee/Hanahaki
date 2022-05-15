@@ -369,9 +369,6 @@ label start:
     m "Hm…I think I prefer the Lily though."
 
 
-    "test 2312312"
-
-    "dasdasd"
 
 #########End of Prologue #########
     return
