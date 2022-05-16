@@ -10,9 +10,11 @@ label prologue:
     scene livingroom with fade
 
 
-    """The leaves all sway from the branches of their mother as the summer breeze hits this mid-August. The humid air drenching me in sweat as the sizzling sun rays hit the ground.
+    """
+    The leaves all sway from the branches of their mother as the summer breeze hits this mid-August. The humid air drenching me in sweat as the sizzling sun rays hit the ground.
 
-    I just sit motionless here in the living room and just stare from outside the window as the sizzling hot rays of the sun hit the ground."""
+    I just sit motionless here in the living room and just stare from outside the window as the sizzling hot rays of the sun hit the ground.
+    """
 
 
     m "{i}{b}I’m being cooked alive…"
@@ -91,8 +93,11 @@ label prologue:
 
     """
     This is my mom’s hometown actually and we lived here before dad got a job in the city.
+
     I spent a good portion of my childhood years here and made a couple of friends. Now that I mentioned it…I don’t remember their faces and names that well…except for one…Lilia…was it?
+
     I just remember spending a lot of time playing around and pranking a lot. If my memory serves me well, I think we moved around back when I was still in elementary school.
+    
     I remember crying like crazy on my last day here before moving…haha.
     """
     ##city to province transition and maybe some sadge music ofcofc
@@ -136,19 +141,21 @@ label prologue:
 
     o "I just remembered how close both of you were. You two were inseparable!"
 
-    "As mom began to talk about that old friend of mine, memories of time we spent with each other started flashing in my head."
+    """
+    As mom began to talk about that old friend of mine, memories of time we spent with each other started flashing in my head.
 
-    "To think I left such a close friend back then only to come back years later. I still can’t somehow remember her face well…"
+    To think I left such a close friend back then only to come back years later. I still can’t somehow remember her face well…
+    """
 
     m "Isn’t she named after a flower or something?"
 
     o "Oh yeah, now that you mentioned it, she was. Same goes for you, you know."
 
     m """
-    I think that was the first thing we talked about when we met each other for the first time on the playground."
+    I think that was the first thing we talked about when we met each other for the first time on the playground.
 
-    I wonder if that old place still exists.
-    """
+    I wonder if that old place still exists. """
+
 
     scene black with fade
     show park with fade
@@ -170,7 +177,7 @@ label prologue:
 
 
     """
-    After a little detour from the park, we finally arrived at our destination. Even if things were still where they were from back then, it’s almost surreal to see how things changed so much."
+    After a little detour from the park, we finally arrived at our destination. Even if things were still where they were from back then, it’s almost surreal to see how things changed so much.
     Everything stays, but still changes.
     Before entering the glorious palace known as the mall, Mom stopped me and pointed out a building just across the street.
     """
@@ -215,15 +222,16 @@ label prologue:
     hide mom with fade
 
     show arcade with fade
-    "I start walking around towards the direction of the old arcade I used to always go and to my surprise it’s still standing."
     ##prolly black scene then footsteps torward a claw machin would be the plan
+    """
+    I start walking around towards the direction of the old arcade I used to always go and to my surprise it’s still standing.
 
-    "Granted, looks like it experienced some renovations and it was bigger than I remembered it was."
+    Granted, looks like it experienced some renovations and it was bigger than I remembered it was.
 
-    "I spent a couple of minutes on the games displayed"
+    I spent a couple of minutes on the games displayed
 
-    "I’m ashamed to say it was mostly spent on claw machines. I wanted to get a souvenir here before I go home shortly."
-
+    I’m ashamed to say it was mostly spent on claw machines. I wanted to get a souvenir here before I go home shortly.
+    """
     ###insert losing on a claw machine here
 
     m "I swear these machines are just a scam."
@@ -234,15 +242,19 @@ label prologue:
 
     Eiron "Let me give it a try."
 
-    "A voice from a man beside me surprised me that it made me almost jump."
-    "It feels like he’s been standing there for a while now."
-    "Was he watching me?"
+    """
+    A voice from a man beside me surprised me that it made me almost jump.
+    It feels like he’s been standing there for a while now.
+    Was he watching me?
+    """
 
     Eiron "I only have a single token left so this’ll be one huge heist."
 
-    "He smiled cheerily and proceeded to insert his coin into the machine. I noticed that standing beside him was what appeared to be the man’s sister."
-    "She appeared to be still in middle school while the person who decided to take on this scam machine seemed to be the same age as me."
-    "I waved at the girl with a friendly smile and she waved back."
+    """
+    He smiled cheerily and proceeded to insert his coin into the machine. I noticed that standing beside him was what appeared to be the man’s sister.
+    She appeared to be still in middle school while the person who decided to take on this scam machine seemed to be the same age as me.
+    I waved at the girl with a friendly smile and she waved back.
+    """
 
     Eiron"I guess you still remember her huh?"
 
@@ -250,10 +262,12 @@ label prologue:
 
     Eiron "If I get you this ShinSona 5 figurine, you owe me some beef udon back in Caroline’s place."
 
-    "The man gave me a grin and took a good look inside the claw machine with sharp eyes."
-    "Is this some kind of new-age scam???"
-    "Why do I have to pay this guy with udon if he gets the figurine, not like I know him…but I must say, his voice seems to be familiar. And Caroline?"
-    "Seems familiar."
+    """
+    The man gave me a grin and took a good look inside the claw machine with sharp eyes.
+    Is this some kind of new-age scam???
+    Why do I have to pay this guy with udon if he gets the figurine, not like I know him…but I must say, his voice seems to be familiar. And Caroline?
+    Seems familiar.
+    """
 
     "While I was stuck with my thoughts trying to process the situation, the guy in front of me suddenly shouted like he won the lottery."
 
@@ -261,25 +275,35 @@ label prologue:
 
     "He handed me the figurine with a confident pose, contrary to him, the girl beside him appeared to be annoyed by the the scene his supposed brother made as his scream attracted nearby people."
 
-    Eiron "Alright Aster! I’ll be expecting that udon before school starts."
-    Eiron "You should’ve texted us that you were visiting. We could’ve hung out more, you know, like good times"
+    Eiron """
+    Alright Aster! I’ll be expecting that udon before school starts.
+    You should’ve texted us that you were visiting. We could’ve hung out more, you know, like good times
+    """
 
     m "Sorry but…do I know you?"
 
-    "The once victorious man that stood proudly dropped his posture in defeat as if he was betrayed. "
-    "He looked straight at me with teary eyes and grabbed me by my shoulders."
-    "Maybe I should prepare to run away, this does seem like a new-age scam."
+    """
+    The once victorious man that stood proudly dropped his posture in defeat as if he was betrayed.
+    He looked straight at me with teary eyes and grabbed me by my shoulders.
+    Maybe I should prepare to run away, this does seem like a new-age scam.
+    """
 
-    Eiron "HOW CAN YOU REMEMBER SOFIE BUT NOT ME?!?!"
-    Eiron "HAVE YOU ALREADY FORGOTTEN AN OLD FRIEND?"
+    Eiron """
+    HOW CAN YOU REMEMBER SOFIE BUT NOT ME?!?!
+    HAVE YOU ALREADY FORGOTTEN AN OLD FRIEND?
+    """
 
-    "He seems to be holding his tears as he says that…I’m starting to feel bad."
-    "Wait, Sofie?"
-    "Wait does that mean."
+    """
+    He seems to be holding his tears as he says that…I’m starting to feel bad.
+    Wait, Sofie?
+    Wait does that mean.
+    """
 
-    m "..."
-    m "Eiron?"
-    m "That you?"
+    m """
+    ...
+    Eiron?
+    That you?
+    """
 
     "His eyes started to light up and a big smile started to form."
 
@@ -314,10 +338,13 @@ label prologue:
     m "Frankly, I don’t remember their names or faces anymore."
 
     e "Are we that disposable to you? City life’s gotten to you man…"
+
     "He's starting to get teary eyed again..."
 
-    m "It’s just a lot of things that have happened recently, sorry about that."
-    m "But you’ve changed a lot yourself, you look like…some kind of emo boy."
+    m """
+    It’s just a lot of things that have happened recently, sorry about that.
+    But you’ve changed a lot yourself, you look like…some kind of emo boy.
+    """
 
     e "I don’t know if that’s a compliment or not but I’ll take it."
 
@@ -343,9 +370,11 @@ label prologue:
     "Before heading for the exit to meet mom outside, I passed by the gardening section of the mall once more."
 
     show mallexit
-    "Something caught my eye however. A girl in white, white as a lily, carrying a bag full of gardening tools."
+    """
+    Something caught my eye however. A girl in white, white as a lily, carrying a bag full of gardening tools.
 
-    "She looks familiar, like an old memory. Her face appears to be as innocent and beautiful as that of the flowers displayed outside."
+    She looks familiar, like an old memory. Her face appears to be as innocent and beautiful as that of the flowers displayed outside.
+    """
 
     o "Aster! What are you waiting for?" with hpunch
 
