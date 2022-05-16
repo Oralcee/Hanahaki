@@ -3,25 +3,25 @@
 label prologue:
 
 #########Start of prologue#########
-    scene black with fade
+    scene black
 
     "Prologue: Seeds from the Past and Petals that Bloom"
 
     scene livingroom with fade
 
 
-    "The leaves all sway from the branches of their mother as the summer breeze hits this mid-August. The humid air drenching me in sweat as the sizzling sun rays hit the ground."
+    """The leaves all sway from the branches of their mother as the summer breeze hits this mid-August. The humid air drenching me in sweat as the sizzling sun rays hit the ground.
 
-    "I just sit motionless here in the living room and just stare from outside the window as the sizzling hot rays of the sun hit the ground."
+    I just sit motionless here in the living room and just stare from outside the window as the sizzling hot rays of the sun hit the ground."""
 
 
     m "{i}{b}I’m being cooked alive…"
 
     m "An A/C would be really nice to cool things up"
 
-    "I groan as I utter those words outside my mouth."
+    """I groan as I utter those words outside my mouth.
 
-    "I move my head to the direction of the electric fan, silently cursing at it as despite being put on max speed, it doesn’t seem to do much to battle against the heat and is making things worse."
+    I move my head to the direction of the electric fan, silently cursing at it as despite being put on max speed, it doesn’t seem to do much to battle against the heat and is making things worse."""
     ###something make the mc look at the fan shitter
 
     m "Feels like Satan’s breath is hitting me with this fan."
@@ -73,20 +73,28 @@ label prologue:
 
     show citynos with fade:
 
-    "I suddenly remember days back in the city…"
-    "the summer heat was hotter there but we had a pretty good A/C to combat it."
-    "Not to mention the stupid number of vending machines that has beverages 24/7."
-    "That city life came to a stop when my parents decided to get a divorce however, good thing they split in better conditions compared to most divorces where the couple are out to get each other."
-    "Our move back here in the province was a little sudden, luckily it wasn’t in the middle of a school year."
+    """
+    I suddenly remember days back in the city…
+
+    the summer heat was hotter there but we had a pretty good A/C to combat it.
+
+    Not to mention the stupid number of vending machines that has beverages 24/7.
+
+    That city life came to a stop when my parents decided to get a divorce however, good thing they split in better conditions compared to most divorces where the couple are out to get each other.
+
+    Our move back here in the province was a little sudden, luckily it wasn’t in the middle of a school year.
+    """
 
     show bridgenos with fade:
 
 #kinda torn on this part on what bg to use might change later
 
-    "This is my mom’s hometown actually and we lived here before dad got a job in the city."
-    "I spent a good portion of my childhood years here and made a couple of friends. Now that I mentioned it…I don’t remember their faces and names that well…except for one…Lilia…was it?"
-    "I just remember spending a lot of time playing around and pranking a lot. If my memory serves me well, I think we moved around back when I was still in elementary school."
-    "I remember crying like crazy on my last day here before moving…haha."
+    """
+    This is my mom’s hometown actually and we lived here before dad got a job in the city.
+    I spent a good portion of my childhood years here and made a couple of friends. Now that I mentioned it…I don’t remember their faces and names that well…except for one…Lilia…was it?
+    I just remember spending a lot of time playing around and pranking a lot. If my memory serves me well, I think we moved around back when I was still in elementary school.
+    I remember crying like crazy on my last day here before moving…haha.
+    """
     ##city to province transition and maybe some sadge music ofcofc
 
     ##sadmusic stops
@@ -136,8 +144,11 @@ label prologue:
 
     o "Oh yeah, now that you mentioned it, she was. Same goes for you, you know."
 
-    m "I think that was the first thing we talked about when we met each other for the first time on the playground."
-    m "I wonder if that old place still exists."
+    m """
+    I think that was the first thing we talked about when we met each other for the first time on the playground."
+
+    I wonder if that old place still exists.
+    """
 
     scene black with fade
     show park with fade
@@ -158,9 +169,11 @@ label prologue:
     o "We should walk through the new park while we head there, take a look at what we missed all those years"
 
 
-    "After a little detour from the park, we finally arrived at our destination. Even if things were still where they were from back then, it’s almost surreal to see how things changed so much."
-    "Everything stays, but still changes."
-    "Before entering the glorious palace known as the mall, Mom stopped me and pointed out a building just across the street."
+    """
+    After a little detour from the park, we finally arrived at our destination. Even if things were still where they were from back then, it’s almost surreal to see how things changed so much."
+    Everything stays, but still changes.
+    Before entering the glorious palace known as the mall, Mom stopped me and pointed out a building just across the street.
+    """
 
     scene black with fade
     show schoolout with fade
