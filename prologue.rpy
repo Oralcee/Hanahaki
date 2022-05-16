@@ -3,7 +3,11 @@
 label prologue:
 
 #########Start of prologue#########
-    show livingroom with fade
+    scene black with fade
+
+    "Prologue: Seeds from the Past and Petals that Bloom"
+
+    scene livingroom with fade
 
 
     "The leaves all sway from the branches of their mother as the summer breeze hits this mid-August. The humid air drenching me in sweat as the sizzling sun rays hit the ground."
@@ -47,7 +51,7 @@ label prologue:
 
     o "Touche."
 
-    m "Moreover so..."
+    m "Moreover..."
 
     "I started to raise my hand and point on Satan’s breath, A.K.A. the fan." #### another shitter part i somehow need to put a fan and pointing stuff on the bg
 
@@ -59,7 +63,7 @@ label prologue:
 
     o "Well since you mentioned it, I guess we should actually buy an A/C for us while we’re at it."
 
-    m "We’re gonna go the mall?"
+    m "We’re gonna go to the mall?"
 
     o "Yeah, so you should start getting dressed. And make sure to put your sweaty shirt on the laundry basket and don’t lay it around the floor."
 
@@ -96,7 +100,7 @@ label prologue:
     show mom
 
 
-    "As we move around the old streets and familiar pathways, nostalgia was beginning to hit."
+    "As we moved around the old streets and familiar pathways, nostalgia was beginning to hit."
 
     o "My my, having fun reminiscing on old memories?"
 
@@ -124,7 +128,7 @@ label prologue:
 
     o "I just remembered how close both of you were. You two were inseparable!"
 
-    "As mom begun to talk about that old friend of mine, memories of time we spent with each other started flashing in my head."
+    "As mom began to talk about that old friend of mine, memories of time we spent with each other started flashing in my head."
 
     "To think I left such a close friend back then only to come back years later. I still can’t somehow remember her face well…"
 
@@ -139,7 +143,7 @@ label prologue:
     show park with fade
     show mom
 
-    "Just as I said that we pass by on what seems to be a fairly large park, and near the entrance of it stood a familiar hunk of steel."
+    "Just as I said that we passed by what seems to be a fairly large park, and near the entrance of it stood a familiar hunk of steel."
 
     m "Looks like it, even the monkey bar is still the same."
 
@@ -151,7 +155,7 @@ label prologue:
 
     m "Fine, well if places are still the same from where they were, the mall should be close by."
 
-    o "We should walk through the new park while we head there, take a look on what we missed all those years"
+    o "We should walk through the new park while we head there, take a look at what we missed all those years"
 
 
     "After a little detour from the park, we finally arrived at our destination. Even if things were still where they were from back then, it’s almost surreal to see how things changed so much."
@@ -176,7 +180,7 @@ label prologue:
 
     m "You were the one who did the work so how would I know."
 
-    o "I literally told you after I finished your requirements up."
+    o "I literally told you after I finished your requirements."
 
     m "Sorry sorry."
 
@@ -229,7 +233,7 @@ label prologue:
 
     Eiron"I guess you still remember her huh?"
 
-    "He suddenly turned at me"
+    "He suddenly turned to me"
 
     Eiron "If I get you this ShinSona 5 figurine, you owe me some beef udon back in Caroline’s place."
 
@@ -242,10 +246,10 @@ label prologue:
 
     Eiron "YEAAAAAAAHHHHH BAAAAAABYYYYY!!! THAT’S WHAT I WAS WAITING FOR, THAT’S WHAT’S IT ALL ABOUT!!!" with hpunch
 
-    "He handed me the figurine with a confident pose, contrary to him the girl beside him appeared to be annoyed on the scene his supposed brother made as his scream attracted nearby people."
+    "He handed me the figurine with a confident pose, contrary to him, the girl beside him appeared to be annoyed by the the scene his supposed brother made as his scream attracted nearby people."
 
     Eiron "Alright Aster! I’ll be expecting that udon before school starts."
-    Eiron "You should’ve texted us that you were visiting. We could’ve hung out more you know, like good times"
+    Eiron "You should’ve texted us that you were visiting. We could’ve hung out more, you know, like good times"
 
     m "Sorry but…do I know you?"
 
@@ -272,7 +276,7 @@ label prologue:
 
     e "I’m just glad you’re back man. I still feel betrayed that you remembered my sister first though."
 
-    "We share a small laugh and he invited me to sit to a nearby bench to talk for a while."
+    "We share a small laugh and he invited me to sit on a nearby bench to talk for a while."
 
     show mallbench with fade
 
@@ -280,7 +284,7 @@ label prologue:
 
     m "School about to start?"
 
-    e "Yeah, the school I attend to is just across the street."
+    e "Yeah, the school I attend is just across the street."
 
     m "Koen High School, right?"
 
@@ -299,14 +303,14 @@ label prologue:
     e "Are we that disposable to you? City life’s gotten to you man…"
     "He's starting to get teary eyed again..."
 
-    m "It’s just a lot of things happened recently, sorry about that."
+    m "It’s just a lot of things that have happened recently, sorry about that."
     m "But you’ve changed a lot yourself, you look like…some kind of emo boy."
 
     e "I don’t know if that’s a compliment or not but I’ll take it."
 
-    s "He wanted to be this one character on anime he watches in hopes to get a “harem” of girls."
+    s "He wanted to be this one character in the anime he watches in hopes to get a “harem” of girls."
 
-    e "Just you watch! I’ll get all the women in the world in the world!"
+    e "Just you watch! I’ll get all the women in the world!"
 
     "I just smiled awkwardly but Sofie looked like she had enough and positioned herself prepared to wack his brother’s face again."
 
@@ -342,7 +346,7 @@ label prologue:
 
     m "What’s this one though?"
 
-    o "That’s a Gladiolus. Beautiful, isn’t it?"
+    o "That’s Gladiolus. Beautiful, isn’t it?"
 
     m "Hm…I think I prefer the Lily though."
 
