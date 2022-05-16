@@ -97,7 +97,7 @@ label prologue:
     I spent a good portion of my childhood years here and made a couple of friends. Now that I mentioned it…I don’t remember their faces and names that well…except for one…Lilia…was it?
 
     I just remember spending a lot of time playing around and pranking a lot. If my memory serves me well, I think we moved around back when I was still in elementary school.
-    
+
     I remember crying like crazy on my last day here before moving…haha.
     """
     ##city to province transition and maybe some sadge music ofcofc
@@ -178,7 +178,9 @@ label prologue:
 
     """
     After a little detour from the park, we finally arrived at our destination. Even if things were still where they were from back then, it’s almost surreal to see how things changed so much.
+
     Everything stays, but still changes.
+
     Before entering the glorious palace known as the mall, Mom stopped me and pointed out a building just across the street.
     """
 
@@ -244,7 +246,9 @@ label prologue:
 
     """
     A voice from a man beside me surprised me that it made me almost jump.
+
     It feels like he’s been standing there for a while now.
+
     Was he watching me?
     """
 
@@ -252,7 +256,9 @@ label prologue:
 
     """
     He smiled cheerily and proceeded to insert his coin into the machine. I noticed that standing beside him was what appeared to be the man’s sister.
+
     She appeared to be still in middle school while the person who decided to take on this scam machine seemed to be the same age as me.
+
     I waved at the girl with a friendly smile and she waved back.
     """
 
@@ -264,8 +270,11 @@ label prologue:
 
     """
     The man gave me a grin and took a good look inside the claw machine with sharp eyes.
+
     Is this some kind of new-age scam???
+
     Why do I have to pay this guy with udon if he gets the figurine, not like I know him…but I must say, his voice seems to be familiar. And Caroline?
+
     Seems familiar.
     """
 
@@ -277,6 +286,7 @@ label prologue:
 
     Eiron """
     Alright Aster! I’ll be expecting that udon before school starts.
+
     You should’ve texted us that you were visiting. We could’ve hung out more, you know, like good times
     """
 
@@ -284,24 +294,31 @@ label prologue:
 
     """
     The once victorious man that stood proudly dropped his posture in defeat as if he was betrayed.
+
     He looked straight at me with teary eyes and grabbed me by my shoulders.
+
     Maybe I should prepare to run away, this does seem like a new-age scam.
     """
 
     Eiron """
     HOW CAN YOU REMEMBER SOFIE BUT NOT ME?!?!
+
     HAVE YOU ALREADY FORGOTTEN AN OLD FRIEND?
     """
 
     """
     He seems to be holding his tears as he says that…I’m starting to feel bad.
+
     Wait, Sofie?
+
     Wait does that mean.
     """
 
     m """
     ...
+
     Eiron?
+
     That you?
     """
 
@@ -343,6 +360,7 @@ label prologue:
 
     m """
     It’s just a lot of things that have happened recently, sorry about that.
+
     But you’ve changed a lot yourself, you look like…some kind of emo boy.
     """
 
@@ -362,9 +380,11 @@ label prologue:
 
     e "Aight, guess I’ll see you in school Aster. I’ll introduce you back to our old lads by then"
 
-    "We waved our goodbyes and as they were leaving, mom texted me that we should get home."
+    """
+    We waved our goodbyes and as they were leaving, mom texted me that we should get home.
 
-    "I guess we’re returning to the good old days huh."
+    I guess we’re returning to the good old days huh.
+    """
 
     scene black with fade
     "Before heading for the exit to meet mom outside, I passed by the gardening section of the mall once more."
